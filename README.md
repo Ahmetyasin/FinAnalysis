@@ -1,6 +1,6 @@
 # FinAnalysis API
 
-Welcome to the FinAnalysis API, a powerful tool designed for calculating financial ratios and analyzing financial data. This API allows users to upload Excel files containing financial data, automatically calculates various financial ratios, and provides a scoring system based on the input data.
+Welcome to the FinAnalysis API, a powerful tool designed for calculating financial ratios and analyzing financial data. This API allows users to upload Excel files containing financial data, automatically calculates various financial ratios, and provides a scoring system based on the input data. For the time being, the API only accepts Excel files in the same format as data/API_Request_Format.xlsx file.
 
 ## Prerequisites
 
