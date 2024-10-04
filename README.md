@@ -1,2 +1,0 @@
-# FinAnalysis
-Financial Analyzer API

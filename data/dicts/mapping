@@ -1,0 +1,157 @@
+Dashboard page
+
+	Total Revenue: B4_Toplam_Alacak_Buyuklugu
+
+	Net Income: B1_Donem_Kari
+
+	Total Assets: B5_Aktif_Buyukluk
+
+	Total Liability: B3_Toplam_Borc_Buyuklugu
+
+	Operate Cash Flow, "Total Equity" olarak güncellenecek.  
+
+	Total Equity: B6_Ozsermaye_Buyukluk
+
+	Activity: Varlik_Kullanim_Skor
+
+	Liquidity: Likidite_Skor
+
+	Solvency: Finansal_Yapi_Skor
+
+	Profitability: Karlilik
+
+	Valuation: Buyukluk_Skor
+
+        Quality: (Varlik_Kullanim_Skor + Finansal_Yapi_Skor + Likidite_Skor + Karlilik + Buyukluk_Skor) / 5
+
+        Current Ratio: L1_Cari_Oran
+
+	Net Profit Margin: k2_sermayeKarlilik
+
+	Debt to Equity Ratio: f3_finansmanOran
+
+	Return on Equity: k1_ozkaynakKarlilik
+
+	Operate Cash Flow, "Total Equity" olarak güncellenecek.  
+
+	Total Equity: B6_Ozsermaye_Buyukluk
+
+Activity page
+
+	Total Current Assets: 1_Donen_Varliklar
+
+	Total Noncurrent Assets: 2_Duran_Varliklar
+
+	Total Current Liabilities: 3_Kisa_Vadeli_Yukumlulukler
+
+	Inventory: 15_Stoklar
+
+	Revenue: 60_Satis_Gelirleri
+
+	Cost of Revenue: 62_Satislarin_Maliyeti__e_
+
+	Net Receivables: 12_Ticari_Alacaklar
+
+	Inventory Turnover Speed: V1_Stok_Devir_Hizi
+
+	Receivable Turnover Speed: V3_Alacak_Devir_Hizi
+
+	Asset Turnover Speed: V8_Aktif_Devir_Hizi
+
+	Working Capital Turnover Speed: V11_Calisma_Sermayesi_Devir_Hizi
+
+Liquidity page
+
+	Total Current Assets: 1_Donen_Varliklar
+
+	Total Current Liabilities: 3_Kisa_Vadeli_Yukumlulukler
+
+	Cash and Cash Equivalent: 10_Nakit_ve_Nakit_Benzerleri
+
+	Inventory: 15_Stoklar
+
+	Prepaid Expenses: 18_Pesin_Odenmis_Giderler
+
+	Current Rate: L1_Cari_Oran
+
+	Cash Rate: L3_Nakit_Oran
+
+	Acid Ratio: L2_Asit_Oran
+
+	Liquidity Score: Likidite_Skor
+
+Profitability page
+
+	Total Current Assets: 1_Donen_Varliklar
+
+	Total Noncurrent Assets: 2_Duran_Varliklar
+
+	Total Current Liabilities: 3_Kisa_Vadeli_Yukumlulukler
+
+	Total Equity: B6_Ozsermaye_Buyukluk
+
+	Gross Profit: 69_DONEM_KARI__ZARARI_
+
+	Equity Profitability: K1_Ozkaynak_Karlilik
+
+	Working Capital Profitability: K5_Calisma_Sermayesi_Karlilik
+
+	Asset Profitability: K3_Aktif_Karlilik
+
+	Profitability Score: Karlilik
+
+Solvency page
+
+	Total Current Assets: 1_Donen_Varliklar
+
+	Total Noncurrent Assets: 2_Duran_Varliklar
+
+	Total Current Liabilities: 3_Kisa_Vadeli_Yukumlulukler
+
+	Total Noncurrent Liabilities: 4_Uzun_Vadeli_Yukumlulukler
+
+	Total Equity: B6_Ozsermaye_Buyukluk
+
+	Financial Leverage Ratio: F1_Finansal_Kaldirac_Oran
+
+	Equity Ratio: F2_Ozkaynak_Oran
+
+	Financing Ratio: F3_Finansman_Oran
+
+	Capital Multiplier: F4_Sermaye_Carpani
+
+	Solvency Score: Finansal_Yapi_Skor
+
+Valuation page
+
+	Total Current Assets: 1_Donen_Varliklar
+
+	Total Noncurrent Assets: 2_Duran_Varliklar
+
+	Total Current Liabilities: 3_Kisa_Vadeli_Yukumlulukler
+
+	Total Noncurrent Liabilities: 4_Uzun_Vadeli_Yukumlulukler
+
+	Total Equity: B6_Ozsermaye_Buyukluk
+
+	Revenue: 60_Satis_Gelirleri
+
+	Income before Tax, "EBITDA" olarak güncellenecek.
+
+	EBITDA: L5_Favok
+
+	Period Profit: 69_DONEM_KARI__ZARARI_
+
+	Total Debt Size: B3_Toplam_Borc_Buyuklugu
+
+	Total Asset Size: B5_Aktif_Buyukluk
+
+	Total Equity Size: B6_Ozsermaye_Buyukluk
+
+	Valuation Score: Buyukluk_Skor
+
+
+
+
+
+

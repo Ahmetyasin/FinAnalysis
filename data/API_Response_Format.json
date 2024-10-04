@@ -1,0 +1,1036 @@
+{
+    "Firma": "BASCM",
+    "Sektor": "insaat",
+    "Donem": "2022/6",
+    "Finansal_THP_Alanlari": {
+      "Firma": "BASCM",
+      "Sektor": "insaat",
+      "Donem": "2022/6",
+      "1_Donen_Varliklar": [
+        1332763922,
+        671671702,
+        430062161,
+        357663543,
+        306043577,
+        255341229
+      ],
+      "10_Nakit_ve_Nakit_Benzerleri": [
+        208380854,
+        106633867,
+        68103691,
+        72012688,
+        70956698,
+        50225228
+      ],
+      "12_Ticari_Alacaklar": [
+        576385420,
+        345570167,
+        253671488,
+        199037780,
+        154912387,
+        131822277
+      ],
+      "13_Diger_Alacaklar": [
+        3461295,
+        727788,
+        1530919,
+        473427,
+        535331,
+        2441722
+      ],
+      "15_Stoklar": [
+        471483069,
+        163789673,
+        83731303,
+        73543035,
+        71863095,
+        63307053
+      ],
+      "18_Pesin_Odenmis_Giderler": [
+        17227424,
+        7376839,
+        7327584,
+        2155559,
+        3221515,
+        705716
+      ],
+      "19_Diger_Donen_Varliklar": [
+        55825860,
+        47573368,
+        15697176,
+        10441054,
+        4554551,
+        6839233
+      ],
+      "AT1__Ara_Toplam__1": [
+        1332763922,
+        671671702,
+        430062161,
+        357663543,
+        306043577,
+        255341229
+      ],
+      "2_Duran_Varliklar": [
+        496418640,
+        458636541,
+        457754818,
+        433670377,
+        429398015,
+        439052158
+      ],
+      "24_Finansal_Yatirimlar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "23_Diger_Alacaklar": [
+        4830722,
+        3483658,
+        3483658,
+        2981516,
+        2219657,
+        1524804
+      ],
+      "25_3_Yatirim_Amacli_Gayrimenkuller": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "25_Maddi_Duran_Varliklar": [
+        386557867,
+        357227699,
+        350694949,
+        356770584,
+        358084312,
+        365481584
+      ],
+      "26_Maddi_Olmayan_Duran_Varliklar": [
+        2480138,
+        2527284,
+        2791347,
+        2834598,
+        3079557,
+        3483077
+      ],
+      "28_Pesin_Odenmis_Giderler": [
+        49380880,
+        4711671,
+        436803,
+        674999,
+        50332,
+        376700
+      ],
+      "28_1_Ertelenmis_Vergi_Varligi": [
+        8590495,
+        7882891,
+        6765320,
+        null,
+        1794265,
+        null
+      ],
+      "29_1_Kullanim_Hakki_Varliklari": [
+        32796894,
+        65963181,
+        77487270,
+        54152368,
+        48888095,
+        54101207
+      ],
+      "TVAR_TOPLAM_VARLIKLAR": [
+        1829182562,
+        1130308243,
+        887816979,
+        791333920,
+        735441592,
+        694393387
+      ],
+      "3_Kisa_Vadeli_Yukumlulukler": [
+        1072546309,
+        693435464,
+        443516833,
+        318468081,
+        257125534,
+        186392233
+      ],
+      "30_Finansal_Borclar": [
+        615245202,
+        449936625,
+        261706932,
+        145979863,
+        138976101,
+        89135025
+      ],
+      "32_Ticari_Borclar": [
+        406247784,
+        217513429,
+        156772096,
+        150619035,
+        94848856,
+        82678311
+      ],
+      "34_Calisanlara_Saglanan_Faydalar_Kapsaminda_Borclar": [
+        3505533,
+        2733423,
+        2427710,
+        1771283,
+        1858732,
+        1389870
+      ],
+      "33_Diger_Borclar": [
+        5254870,
+        4033368,
+        4723962,
+        2238218,
+        3745961,
+        1639722
+      ],
+      "38_Ertelenmis_Gelirler": [
+        14514249,
+        5657036,
+        6008810,
+        7064156,
+        7890887,
+        3455373
+      ],
+      "36_Donem_Kari_Vergi_Yukumlulugu": [
+        11324795,
+        null,
+        null,
+        0,
+        0,
+        1937300
+      ],
+      "37_Borc_Karsiliklari": [
+        12435828,
+        11855987,
+        5676848,
+        7914168,
+        7098733,
+        5810099
+      ],
+      "309_Turev_Araclar": [
+        0,
+        0,
+        0,
+        2340812,
+        0,
+        0
+      ],
+      "309_1_Musteri_Sozlesmelerinden_Dogan_Yukumlulukler": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "390_Diger_Kisa_Vadeli_Yukumlulukler_": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "AT2__Ara_Toplam__2": [
+        1072546309,
+        693435464,
+        443516833,
+        318468081,
+        257125534,
+        186392233
+      ],
+      "4_Uzun_Vadeli_Yukumlulukler": [
+        29295465,
+        42420648,
+        57914304,
+        50132451,
+        42627504,
+        43659132
+      ],
+      "40_Finansal_Borclar": [
+        14208538,
+        25802125,
+        43559510,
+        35256281,
+        25866648,
+        27422057
+      ],
+      "48_Ertelenmis_Gelirler": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "47_Uzun_vadeli_Karsiliklar": [
+        12282779,
+        11459287,
+        12859933,
+        11379725,
+        10101127,
+        9393117
+      ],
+      "481_Ertelenmis_Vergi_Yukumlulugu": [
+        2804148,
+        5159236,
+        1494861,
+        3496445,
+        6659729,
+        6843958
+      ],
+      "5_Ozkaynaklar": [
+        727340788,
+        394452131,
+        386385842,
+        422733388,
+        435688554,
+        464342022
+      ],
+      "52_Ana_Ortakliga_Ait_Ozkaynaklar": [
+        727340788,
+        394452131,
+        386385842,
+        422733388,
+        435688554,
+        464342022
+      ],
+      "50_Odenmis_Sermaye": [
+        431559120,
+        131559120,
+        131559120,
+        131559120,
+        131559120,
+        131559120
+      ],
+      "5_x_Yabanci_Para_Cevrim_Farklari": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "54_Kardan_Ayrilan_Kisitlanmis_Yedekler": [
+        71197853,
+        71197853,
+        71197853,
+        71197853,
+        71197853,
+        66929760
+      ],
+      "57_Gecmis_Yillar_Kar_Zararlari": [
+        124430179,
+        167703239,
+        167703239,
+        209202647,
+        209202647,
+        215717533
+      ],
+      "59_Donem_Net_Kar_Zarari": [
+        40390308,
+        -43273060,
+        -36347546,
+        -41499408,
+        -28653468,
+        1905361
+      ],
+      "529_Diger_Ozkaynak_Kalemleri": [
+        13213679,
+        20715330,
+        5723527,
+        5723527,
+        5832753,
+        5832753
+      ],
+      "TKAY_TOPLAM_KAYNAKLAR": [
+        1829182562,
+        1130308243,
+        887816979,
+        791333920,
+        735441592,
+        694393387
+      ],
+      "241_Hedge_Dahil_Net_Yabanci_Para_Pozisyonu": [
+        196546666,
+        94982562,
+        14840102,
+        26364739,
+        25805596,
+        18170117
+      ],
+      "11_Finansal_Yatirimlar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "12_1_Finans_Sektoru_Faaliyetlerinden_Alacaklar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "22_Ticari_Alacaklar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "22_1_Finans_Sektoru_Faaliyetlerinden_Alacaklar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "29_Diger_Duran_Varliklar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "30_1_Diger_Finansal_Yukumlulukler": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "32_1_Finans_Sektoru_Faaliyetlerinden_Borclar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "33_1_Devlet_Tesvik_ve_Yardimlari": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "42_Ticari_Borclar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "40_1_Finans_Sektoru_Faaliyetlerinden_Borclar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "43_Diger_Borclar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "49_Diger_Uzun_Vadeli_Yukumlulukler": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "53_Azinlik_Paylari": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "19_1_Satis_Amaciyla_Elde_Tutulan_Duran_Varliklar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "25_2_Ozkaynak_Yontemiyle_Degerlenen_Yatirimlar": [
+        11781644,
+        16840157,
+        16095471,
+        16256312,
+        15281797,
+        14084786
+      ],
+      "390_1_Satis_Amacli_Siniflandirilan_Varlik_Gruplarina_Iliskin_Yukumlulukler": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "49_1_Devlet_Tesvik_ve_Yardimlari": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "60_Satis_Gelirleri": [
+        922255883,
+        905446296,
+        364213148,
+        561142866,
+        218862987,
+        480620117
+      ],
+      "600_Yurt_Ici_Satislar": [
+        677611295,
+        0,
+        395971284,
+        605299699,
+        234331735,
+        513770083
+      ],
+      "601_Yurt_Disi_Satislar": [
+        null,
+        null,
+        0,
+        0,
+        0,
+        0
+      ],
+      "62_Satislarin_Maliyeti__e_": [
+        -772210158,
+        -850274161,
+        -364046802,
+        -537956230,
+        -219553833,
+        -419518699
+      ],
+      "602_Ticari_Faaliyetlerden_Brut_Kar__Zarar_": [
+        150045725,
+        55172135,
+        166346,
+        23186636,
+        -690846,
+        61101418
+      ],
+      "BK_BRUT_KAR__ZARAR_": [
+        150045725,
+        55172135,
+        166346,
+        23186636,
+        -690846,
+        61101418
+      ],
+      "63_Genel_Yonetim_Giderleri__e_": [
+        -46243932,
+        -47122849,
+        -21516018,
+        -38024757,
+        -17833270,
+        -37826480
+      ],
+      "631_Pazarlama__Satis_ve_Dagitim_Giderleri__e_": [
+        -8414913,
+        -13020017,
+        -6175420,
+        -10711929,
+        -4629566,
+        -10122099
+      ],
+      "630_Arastirma_ve_Gelistirme_Giderleri__e_": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "64_Diger_Faaliyet_Gelirleri": [
+        19158351,
+        14128807,
+        5934871,
+        11874738,
+        5375086,
+        10498990
+      ],
+      "65_Diger_Faaliyet_Giderleri__e_": [
+        -10724843,
+        -26909660,
+        -7608943,
+        -10700902,
+        -4689852,
+        -6212675
+      ],
+      "FKZ_FAALIYET_KARI__ZARARI_": [
+        103820388,
+        -17751584,
+        -29199164,
+        -24376214,
+        -22468448,
+        17439154
+      ],
+      "64_1_Yatirim_Faaliyetlerinden_Gelirler": [
+        1736920,
+        7417064,
+        2863515,
+        1112906,
+        609492,
+        15144381
+      ],
+      "65_1_Yatirim_Faaliyetlerinden_Giderler__e_": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "FGOFKZ_FINANSMAN_GELIRI__GIDERI__ONCESI_FAALIYET_KARI__ZARARI_": [
+        100498795,
+        -9750676,
+        -26496490,
+        -21914078,
+        -20661944,
+        32531449
+      ],
+      "67__Esas_Faaliyet_Disi__Finansal_Gelirler": [
+        26344294,
+        44345694,
+        13670529,
+        3549521,
+        7179472,
+        2508416
+      ],
+      "68__Esas_Faaliyet_Disi__Finansal_Giderler__e_": [
+        -72500666,
+        -87520888,
+        -32288488,
+        -26555496,
+        -17253429,
+        -33667231
+      ],
+      "SFVOKZ_SURDURULEN_FAALIYETLER_VERGI_ONCESI_KARI__ZARARI_": [
+        54342423,
+        -52925870,
+        -45114449,
+        -44920053,
+        -30735901,
+        1372634
+      ],
+      "SFVG_Surdurulen_Faaliyetler_Vergi_Geliri__Gideri_": [
+        -13952115,
+        9652810,
+        8766903,
+        3420645,
+        2082433,
+        532727
+      ],
+      "691_Donem_Vergi_Geliri__Gideri_": [
+        -14187870,
+        -315239,
+        null,
+        103939,
+        103939,
+        -2113266
+      ],
+      "67_1_Ertelenmis_Vergi_Geliri__Gideri_": [
+        235755,
+        9968049,
+        8766903,
+        3316706,
+        1978494,
+        2645993
+      ],
+      "SFDKZ_SURDURULEN_FAALIYETLER_DONEM_KARI_ZARARI": [
+        40390308,
+        -43273060,
+        -36347546,
+        -41499408,
+        -28653468,
+        1905361
+      ],
+      "DFDKZ_DURDURULAN_FAALIYETLER_DONEM_KARI_ZARARI": [
+        null,
+        null,
+        0,
+        null,
+        0,
+        null
+      ],
+      "69_DONEM_KARI__ZARARI_": [
+        40390308,
+        -43273060,
+        -36347546,
+        -41499408,
+        -28653468,
+        1905361
+      ],
+      "69_2_Azinlik_Paylari": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "69_3_Ana_Ortaklik_Paylari": [
+        40390308,
+        -43273060,
+        -36347546,
+        -41499408,
+        -28653468,
+        1905361
+      ],
+      "796_Amortisman": [
+        35955983,
+        63931426,
+        32001831,
+        42141459,
+        19455291,
+        37959587
+      ],
+      "67_2_Faiz__Ucret__Prim__Komisyon_ve_Diger_Gelirler": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "68_1_Faiz__Ucret__Prim__Komisyon_ve_Diger_Giderler__e_": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "67_3_Finans_Sektoru_Faaliyetlerinden_Brut_Kar__Zarar_": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "69_1_Ozkaynak_Yontemiyle_Deger_Yatirimlarin_Kar_Zarar__Paylar": [
+        -5058513,
+        583844,
+        -160841,
+        2171526,
+        1197012,
+        -52086
+      ]
+    },
+    "Rasyolar": {
+      "B1_Donem_Kari": [
+        40390308,
+        -43273060,
+        -36347546,
+        -41499408,
+        -28653468
+      ],
+      "B2_Donem_Satislari": [
+        922255883,
+        905446296,
+        364213148,
+        561142866,
+        218862987
+      ],
+      "B3_Toplam_Borc_Buyuklugu": [
+        1101841774,
+        735856112,
+        501431137,
+        368600532,
+        299753038
+      ],
+      "B4_Toplam_Alacak_Buyuklugu": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "B5_Aktif_Buyukluk": [
+        1829182562,
+        1130308243,
+        887816979,
+        791333920,
+        735441592
+      ],
+      "B6_Ozsermaye_Buyukluk": [
+        727340788,
+        394452131,
+        386385842,
+        422733388,
+        435688554
+      ],
+      "B7_Isletme_Sermaye_Buyukluk": [
+        756636253,
+        436872779,
+        444300146,
+        472865839,
+        478316058
+      ],
+      "B8_Odenmis_Sermaye_Buyukluk": [
+        727340788,
+        394452131,
+        386385842,
+        422733388,
+        435688554
+      ],
+      "L1_Cari_Oran": [
+        1.242616669151206,
+        0.9686145818466533,
+        0.9696636722692327,
+        1.1230750092031987,
+        1.1902496505850717
+      ],
+      "L2_Asit_Oran": [
+        0.7869622243042934,
+        0.7217761651717312,
+        0.76435266663261,
+        0.8853789934445581,
+        0.8982342726024246
+      ],
+      "L3_Nakit_Oran": [
+        0.19428611357050504,
+        0.15377619480967303,
+        0.15355379082083226,
+        0.22612215256825063,
+        0.27596130534433816
+      ],
+      "L4_Hazir_Degerler_Oran": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "L5_Favok": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "L6_Faiz_Karsilama_Oran": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "L7_Stok_Bagimlilik_Oran": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "F1_Finansal_Kaldirac_Oran": [
+        0.6023684004483747,
+        0.6510225122723448,
+        0.5647911099478984,
+        0.46579645164205774,
+        0.40758238487006865
+      ],
+      "F2_Ozkaynak_Oran": [
+        0.3976315995516253,
+        0.3489774877276552,
+        0.4352088900521016,
+        0.5342035483579423,
+        0.5924176151299313
+      ],
+      "F3_Finansman_Oran": [
+        0.6601136435039537,
+        0.536045192215513,
+        0.7705661126504795,
+        1.146860493408078,
+        1.4534917040607276
+      ],
+      "F4_Sermaye_Carpani": [
+        2.5148906704789393,
+        2.865514353121849,
+        2.2977471803948757,
+        1.8719456339701277,
+        1.6879984228366944
+      ],
+      "F5_Oto_Finansman": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "F6_Duran_Varlik_Sermaye_Oran": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "V1_Stok_Devir_Hizi": [
+        2.4311137782140193,
+        6.870320041078054,
+        4.629449490990704,
+        7.39936108608351,
+        3.248555043381324
+      ],
+      "V2_Stokta_Kalma_Ortalamasi": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "V3_Alacak_Devir_Hizi": [
+        1.6000680291323122,
+        2.620151802629421,
+        1.4357669869465188,
+        2.819278159151494,
+        1.4128178594265675
+      ],
+      "V4_Tahsilat_Hizi": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "V5_Borc_Devir_Hizi": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "V6_Borc_Odeme_Suresi": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "V7_Etkinlik_Hizi": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "V8_Aktif_Devir_Hizi": [
+        0.5041901788040335,
+        0.8010613933034902,
+        0.4102344927106874,
+        0.7091100884440793,
+        0.2975939753486229
+      ],
+      "V9_Duran_Varlik_Devir_Hizi": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "V10_Ozkaynak_Devir_Hizi": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "V11_Calisma_Sermayesi_Devir_Hizi": [
+        3.5441716352997212,
+        -41.603390810835,
+        -27.069641534182328,
+        14.316526387672123,
+        4.474074872537317
+      ],
+      "V12_Net_Calisma_Sermayesi_Devir_Hizi": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "V13_Hazir_Deger_Devir_Hizi": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "K1_Ozkaynak_Karlilik": [
+        0.05553147667005305,
+        -0.10970421148517005,
+        -0.09407059485373173,
+        -0.0981692224414505,
+        -0.06576594160424054
+      ],
+      "K2_Sermaye_Karlilik": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "K3_Aktif_Karlilik": [
+        0.022081069893776957,
+        -0.03828430011723802,
+        -0.04094035917283353,
+        -0.05244234696776299,
+        -0.03896090228195851
+      ],
+      "K4_Ekonomik_Karlilik": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "K5_Calisma_Sermayesi_Karlilik": [
+        0.15521742565519575,
+        1.988307903753037,
+        2.7014813887696407,
+        -1.0587809374462789,
+        -0.5857443643033716
+      ]
+    },
+    "Skorlar": {
+      "Buyukluk_Skor": 10,
+      "Likidite_Skor": 9,
+      "Finansal_Yapi_Skor": 10,
+      "Varlik_Kullanim_Skor": 8,
+      "Karlilik": 5
+    }
+  }
